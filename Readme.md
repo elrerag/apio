@@ -29,3 +29,5 @@ y los end points serán `/usuarios` y `/otros`
 https://my-json-server.typicode.com/<tuUsuarioGitHub>/<tuProyecto>/usuarios
 https://my-json-server.typicode.com/<tuUsuarioGitHub>/<tuProyecto>/otros
 ```
+
+> No olvidar incluir el campo id en sus objetos
